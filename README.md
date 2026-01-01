@@ -1,13 +1,21 @@
 # 🎢 3D Roller Coaster Geometry
 
-A Three.js-based 3D roller coaster demonstrating
-how spline curves are used in real roller coaster design.
+An interactive 3D website demonstrating how geometry
+is used in roller coaster design.
 
-## Concepts Used
+## Features
 - Catmull-Rom spline curves
-- Tube geometry
-- Camera motion along curves
-- 3D geometry
+- 3D tube geometry
+- Camera movement along track
+- Speed control
+- Geometry facts
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- Three.js
 
 ## How to Run
-Just open index.html in a browser.
+Open index.html in a browser  
+or host using GitHub Pages.
